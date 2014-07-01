@@ -1,0 +1,26 @@
+{
+  "name": "uniform-shape",
+  "title": "Uniform Shape",
+  "description": "jQuery plugin. This plugin make uniform height.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hisame64/uniform-shape",
+  "author": {
+    "name": "Shuji Isogai",
+    "email": "ura.beta.momo+dev@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hisame64/uniform-shape.git"
+  },
+  "bugs": "https://github.com/hisame64/uniform-shape/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/hisame64/uniform-shape/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "> 1.7"
+  },
+  "keywords": []
+}
